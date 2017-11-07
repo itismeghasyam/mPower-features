@@ -6,7 +6,9 @@ To Run most of the test_* functions you will need a few companion functions (unw
 
 
 <h2>Feature (test_\*function, ) : Mean AUC</h2>
+
 log spectral distance (test_logspecdist, Non Normalized) : 0.57632
-log spectral distance (test_logspecdist, Normalized) : 0.57632
+
+log spectral distance (test_logspecdist, Normalized) : 0.54211
 
 
